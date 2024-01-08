@@ -101,11 +101,11 @@ footer ul li a {
 <body>
 	<header>
 		<div class="container">
-		<h1><a href="webinggris.php" style="color:white;">GROUP 10</a></h1>
+		<h1><a href="../webinggris.php" style="color:white;">GROUP 10</a></h1>
 		<ul>
-			<li><a href="project/project1.php" style="color:white;">Project 1</a></li>
-			<li><a href="project/project2.php" style="color:white;">Project 2</a></li>
-			<li><a href="project/project3.php" style="color:white;">Project 3</a></li>
+			<li><a href="project1.php" style="color:white;">Project 1</a></li>
+			<li><a href="project2.php" style="color:white;">Project 2</a></li>
+			<li><a href="project3.php" style="color:white;">Project 3</a></li>
 		</ul>
 		</div>
 	</header>
@@ -120,12 +120,16 @@ footer ul li a {
 		<div class="section">
 		<div class="container">
 			<div class="box" >
-				<h3 style=" color:black;">Member of Group 10 :</h3><br>
+				<h3 style=" color:black;">Member of Group 10 in Project 1 :</h3><br>
 				<h3 style=" color:black;">1. Irham maulana</h3>
 				<h3 style=" color:black;">2. jaenal</h3>
 				<h3 style=" color:black;">3. Edi Dwi Seto</h3>
-				<h3 style=" color:black;">4. Habil Fahrizal</h3>
-				<h3 style=" color:black;">5. Syahlah Fadhlik Darmawan</h3>
+				<h3 style=" color:black;">4. Muhammad Faiz Apiq Sembodo</h3>
+				<h3 style=" color:black;">5. Raden Muhammad Satrio</h3>
+				<h3 style=" color:black;">6. Habil Fahrizal</h3>
+				<h3 style=" color:black;">7. Syahlah Fadhlik Darmawan</h3><br>
+				<h3 style="color: black;">Video link :</h3><br>
+				<a href="https://youtu.be/D3AW_ZUgjoo?si=YPomIXkfs68vjRUr">https://youtu.be/D3AW_ZUgjoo?si=YPomIXkfs68vjRUr</a>
 			</div>
 		</div>
 	</div>
